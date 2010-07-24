@@ -4,7 +4,7 @@
     ~~~~~~~~~~~~~~~~
 
     :copyright: 2010 by Daniel Neuhäuser
-    :license: BSD
+    :license: BSD, see LICENSE for details
 """
 import re
 import json
